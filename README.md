@@ -1,4 +1,4 @@
-# pocketsat
+# PocketSat MVP-1
 
 Guidelines:
       Usar Componentes Comerciales (COOT - Commecirally of the shelf). 
