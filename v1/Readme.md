@@ -1,4 +1,4 @@
-PocketSat MVP-1
+# PocketSat MVP-1
 
 You can order this board on https://jlcpcb.com/
 I recommend using STM Assembly (https://jlcpcb.com/smt-assembly) to get your board with components already in place.
